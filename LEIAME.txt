@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 teste
+=======
+aaaaaaaaaaaaaa
+aaaaa
+>>>>>>> ticket0001
