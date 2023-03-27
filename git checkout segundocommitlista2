@@ -1,0 +1,64 @@
+[33mcommit ebb8422bff087128759c646f58b63f7a550b9d6c[m[33m ([m[1;36mHEAD -> [m[1;32mticket0006[m[33m, [m[1;31morigin/ticket0006[m[33m)[m
+Author: Fernando Costa Colares <fernando.colares@edu.unipar.br>
+Date:   Mon Mar 27 20:19:10 2023 -0300
+
+    terceirocommit
+
+[33mcommit 455b07776c3af013adca0adce41ff1f1f6fca880[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Fernando Costa Colares <fernando.colares@edu.unipar.br>
+Date:   Mon Mar 27 20:13:20 2023 -0300
+
+    segundocommitlista2
+
+[33mcommit 1acae183e667a61b444850922b49a866b5abb23d[m
+Merge: 6e2c673 46defee
+Author: Fernando Costa Colares <fernando.colares@edu.unipar.br>
+Date:   Mon Mar 27 20:06:46 2023 -0300
+
+    Merge branch 'master' of https://github.com/fernandocostacolares28/unipar
+
+[33mcommit 6e2c67336ae1348d69a8bcea6b2ea314fd3fff36[m
+Author: Fernando Costa Colares <fernando.colares@edu.unipar.br>
+Date:   Mon Mar 27 20:04:37 2023 -0300
+
+    commitlista2
+
+[33mcommit c24434b1e8f6600effd3360c86bbcf4c5d7927e0[m[33m ([m[1;31morigin/ticket0002[m[33m, [m[1;32mticket0002[m[33m)[m
+Author: Fernando Costa Colares <fernando.colares@edu.unipar.br>
+Date:   Mon Mar 20 20:29:47 2023 -0300
+
+    quarto commit
+
+[33mcommit 46defeec9890e37fc5f5c648dd5fc38a8348fe66[m
+Merge: 0730afc c24434b
+Author: Fernando Costa Colares <127800348+fernandocostacolares28@users.noreply.github.com>
+Date:   Mon Mar 20 20:29:35 2023 -0300
+
+    Merge pull request #1 from fernandocostacolares28/ticket0002
+    
+    quarto commit
+
+[33mcommit 0730afcf69568a1e225518063d26fcf674c20413[m
+Merge: d44599d d95b480
+Author: Fernando Costa Colares <fernando.colares@edu.unipar.br>
+Date:   Mon Mar 20 20:25:13 2023 -0300
+
+    resolução de conflito
+
+[33mcommit d95b480ca773e7ea58069292d86919df4e0a53eb[m[33m ([m[1;31morigin/ticket0001[m[33m, [m[1;32mticket0001[m[33m)[m
+Author: Fernando Costa Colares <fernando.colares@edu.unipar.br>
+Date:   Mon Mar 20 20:21:48 2023 -0300
+
+    terceiro Commit
+
+[33mcommit d44599dcd2dc5d26f5a81da369e6b971e176a8da[m
+Author: Fernando Costa Colares <fernando.colares@edu.unipar.br>
+Date:   Mon Mar 20 20:16:51 2023 -0300
+
+    Commit2
+
+[33mcommit 7552780fe763dad06616411b09a8e994e2e6c222[m
+Author: Fernando Costa Colares <fernando.colares@edu.unipar.br>
+Date:   Mon Mar 20 20:11:33 2023 -0300
+
+    Primeiro Commit
